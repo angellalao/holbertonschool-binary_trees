@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-=======
->>>>>>> 322cefee0231ab4bb3f2321efb82ffe517d99d7d
 #include "binary_trees.h"
 
 /* Original code from http://stackoverflow.com/a/13755911/5184480 */
